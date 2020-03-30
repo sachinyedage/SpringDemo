@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class ResrControllerClass {
 
 
-    @GetMapping("test")
+    @GetMapping("   test")
     public String test(){
-        return "Hello";
+        return "Hello2";
     }
 
 
