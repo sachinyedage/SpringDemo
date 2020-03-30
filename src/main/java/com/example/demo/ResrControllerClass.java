@@ -16,7 +16,19 @@ public class ResrControllerClass {
         return "Hello1";
         //test
 
+
+
     }
+    @GetMapping("   test1")
+    public String test1(){
+
+        return "Hello1";
+        //test
+
+
+
+    }
+
 
 
 
