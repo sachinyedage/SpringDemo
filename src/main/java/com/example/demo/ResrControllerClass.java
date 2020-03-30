@@ -9,10 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("DemoApp")
 public class ResrControllerClass {
 
+    
 
     @GetMapping("   test")
     public String test(){
 
+        String s = "ss":
         return "Hello1";
         //test
 
