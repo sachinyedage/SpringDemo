@@ -12,7 +12,9 @@ public class ResrControllerClass {
 
     @GetMapping("   test")
     public String test(){
-        return "Hello2";
+
+        return "Hello1";
+
     }
 
 
